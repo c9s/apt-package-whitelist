@@ -5213,6 +5213,7 @@ libgcrypt11-dev:i386
 libgcrypt11:i386
 libgd-gd2-perl
 libgd-gd2-perl:i386
+libgd-dev
 libgd-tools
 libgd-tools:i386
 libgd2-noxpm
